@@ -1,0 +1,16 @@
+#Home-main-div{
+    user-select: none;
+}
+#cards-div1{
+    display: flex;
+    gap: 10px;
+}
+#cards-div2{
+    display: flex;
+    gap: 10px;
+}
+#cards-main-div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

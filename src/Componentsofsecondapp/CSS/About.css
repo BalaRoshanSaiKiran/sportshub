@@ -1,0 +1,10 @@
+#About-main-div{
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 20px;
+}
+p{
+    line-height: 30px;
+}

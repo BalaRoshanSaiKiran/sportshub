@@ -1,0 +1,25 @@
+#Cricket-main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: rgb(77, 136, 172);
+}
+#Cricket-div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 50px;
+}
+#Cricket-button{
+    background-color: gold;
+    border-radius: 12%;
+    border: 0;
+}
+#Cricket-h1{
+    color:crimson;
+    text-shadow:1.5px 1.5px black;
+}

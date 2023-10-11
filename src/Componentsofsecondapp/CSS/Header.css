@@ -1,0 +1,25 @@
+#Header-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    background-color:gold;
+    flex-grow: 1;
+    width: 100% !important;
+}
+.combined{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    margin-top: 100px;
+}
+#Header-ul{
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    list-style: none;  
+    font-size: larger;
+    gap: 30px;
+    padding: 10px;
+}

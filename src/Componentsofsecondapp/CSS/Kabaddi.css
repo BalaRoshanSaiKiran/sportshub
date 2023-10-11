@@ -1,0 +1,194 @@
+#Kabaddi-main-div{
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    min-height: 1000px;
+}
+#timer-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+#start{
+    background-color: gold;
+}
+#pause{
+    background-color: goldenrod;
+}
+#reset{
+    background-color: gold;
+}
+#team1score{
+    border:1;
+    background-color:rgb(126, 223, 141);
+    height: 60px;
+    width: 60px;
+    font-size: larger;
+}
+#team2score{
+    border:1;
+    background-color:rgb(126, 223, 141);
+    height: 60px;
+    width: 60px;
+    font-size: larger;
+}
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+#Kabaddi-main-div2{
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#playersmainnamesdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+#teamplayersdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+#Team1-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Team2-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    background-color: aliceblue;
+    gap: 50px;
+}
+#timer{
+    font-size:50px;
+}
+#scorecarddiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+tr{
+    display: flex;
+    gap: 250px;
+}
+#somepointt1{
+    width: 40px;
+    height:25px;
+}
+#somepointt2{
+    width: 40px;
+    height: 25px;
+}
+#vs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#i-vs{
+    font-size:25px;
+}
+#defaultname1{
+    font-size:25px;
+}
+#defaultname2{
+    font-size:25px;
+}
+#riderlimit-td{
+    text-align: end;
+    margin-left: -35px;
+}
+#penaltybutton-td{
+    text-align: end;
+    margin-left:150px;
+}
+#somepointt2-td{
+    text-align: end;
+    margin-left:110px;
+}
+#scorebuttondata1{
+    text-align: end;
+    margin-left: -30px;
+}
+#playerofmatch-td{
+    margin-left: -140px;
+}
+#scorebutton{
+    border-radius: 50%;
+    background-color: rgb(130, 130, 80);
+    height: 40px;
+    width: 40px;
+}
+#riderlimit{
+    height: 60px;
+    width: 60px;
+    background-color: red;
+}
+#somepointbutton2{
+    background-color: rgb(130, 130, 80);
+}
+#somepointbutton1{
+    background-color: rgb(130, 130, 80);
+}
+#penaltybutton1{
+    background-color:darksalmon;
+}
+#penaltybutton2{
+    background-color:darksalmon;
+}
+#result1{
+    background-color: black;
+    color: white;
+}
+#mvp{
+    background-color: black;
+    color: white;
+}
+#playersindividualscore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+.ip{
+    width:30px;
+    height:20px;
+}
+.individualscore{
+    background-color:violet;
+    height: 35px;
+    width:30px;
+}
